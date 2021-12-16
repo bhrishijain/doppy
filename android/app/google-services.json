@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795028971089",
+    "project_id": "doppy-426fb",
+    "storage_bucket": "doppy-426fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795028971089:android:d231d80bee9faa5a992270",
+        "android_client_info": {
+          "package_name": "com.example.doppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795028971089-080q79ui0gacfplbiift2lc4ef8rpfp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doppy",
+            "certificate_hash": "1e8052c4314aee6196ee544e827df45fee63bb68"
+          }
+        },
+        {
+          "client_id": "795028971089-orpbk1nv0mujqmbggmahf21stpn0m40h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuU4ifhxicqASEj0dMZ2XCJVjAdZDFC9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795028971089-orpbk1nv0mujqmbggmahf21stpn0m40h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
